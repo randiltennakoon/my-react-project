@@ -4,6 +4,7 @@ import { render } from '@testing-library/react';
 // import Post from './Post';
 
 // It's better to write like this.
+// function-based component
 const App = () => {
   return (
     <div className="App">

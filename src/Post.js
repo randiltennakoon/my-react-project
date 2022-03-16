@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./Post.css";
 
+
+// class-based component
 class Post extends Component{
     render(){
         return(
