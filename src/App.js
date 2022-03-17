@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { render } from '@testing-library/react';
+import { Button } from 'react-bootstrap';
 // import Post from './Post';
 
 const my_styles = {
@@ -14,6 +15,9 @@ const App = () => {
     <div className="App">
       {/* <h2 style={{color: 'black'}}>This is a new part</h2> */}
       <h2 style={my_styles}>This is a new part</h2>
+      <Button>
+        Submit      
+      </Button>
       {/* <Post /> */}
     </div>
   );
