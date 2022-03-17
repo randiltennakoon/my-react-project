@@ -36,3 +36,7 @@ export default App;
 
 // to install react-bootstrap
 // $ npm i --save react-bootstrap bootstrap
+
+
+// to install material-ui 
+// $ npm install @mui/material @emotion/react @emotion/styled
