@@ -28,3 +28,7 @@ const App = () => {
 // }
 
 export default App;
+
+
+// to install react-bootstrap
+// $ npm i --save react-bootstrap bootstrap
